@@ -25,9 +25,9 @@
 
 ## 📡 Connect With Me  
 
-[![Telegram](https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/esqyzan_channel)  
+[![Telegram](https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/Esqyzan)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Esqyzan)  
-[![Steam](https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/id/esqyzan/)  
+[![Steam](https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/id/Esqyzan/)  
 📫 **Email** (slower than a snail, but I’ll reply!): [esqyzan@dont-even-try.fun](mailto:esqyzan@dont-even-try.fun)  
 
 ---
@@ -49,5 +49,3 @@
 If you’re reading this, you’re already cooler than 98% of the internet. *High five!* ✋  
 
 ---
-
-✨ *Customize your stats with [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)!*  
