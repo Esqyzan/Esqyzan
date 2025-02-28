@@ -2,7 +2,7 @@
 
 **I’m Esqyzan** (or **Esqyzan4ik** for friends), a budding programmer who believes Python, neural networks, and automation aren’t just tools—they’re *magic spells*!  
 
-![Code Wizard](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)  
+![Code Wizard](https://dont-even-try.fun/github/gif)  
 *(Not me. But this cat and I share the same passion for late-night coding!)*  
 
 ---
