@@ -99,17 +99,16 @@ me.say_hi()
 
 ---
 
-## 🔥 Featured Projects
+## 🔥 My Projects
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Esqyzan&repo=your-awesome-project&theme=radical)](https://github.com/Esqyzan/your-awesome-project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Esqyzan&repo=another-cool-project&theme=radical)](https://github.com/Esqyzan/another-cool-project)
+🚧 *Projects under construction!* 🚧  
+*Explore my chaotic experiments and coding adventures:*
+
+[![View My Repositories](https://img.shields.io/badge/View%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Esqyzan?tab=repositories)
 
 </div>
-
-🚧 *More epic projects coming soon!* 🚧  
-*Meanwhile, explore my [repositories](https://github.com/Esqyzan?tab=repositories) for experimental chaos!*
 
 ---
 
