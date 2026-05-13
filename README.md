@@ -55,7 +55,28 @@ class Esqyzan:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Esqyzan&theme=dark&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideNums=DDDDDD&currStreakNum=FFFFFF)](https://github.com/Esqyzan)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Esqyzan&layout=compact&theme=dark&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/Esqyzan)
+<details>
+<summary><b>📊 SKILL MATRIX // EXPAND TO VIEW</b></summary>
+<br>
+
+```
+════════════════════════════════════════════════════════════
+  MASTERY LEVELS
+════════════════════════════════════════════════════════════
+
+Python         ████████████████████░ 95% | Production Ready
+JavaScript     ██████████████░░░░░░░ 70% | Confident
+PyTorch/TF     ████████████░░░░░░░░░ 65% | Experimental
+FastAPI        ██████████████████░░░ 85% | Solid Backend
+Docker         ████████████████░░░░░ 80% | Container Master
+Linux/Bash     ██████████████████░░░ 85% | System Warrior
+SQL            █████████████░░░░░░░░ 65% | Query Crafting
+Git/DevOps     ████████████████████░ 95% | Version Control Ninja
+
+════════════════════════════════════════════════════════════
+```
+
+</details>
 
 </div>
 
@@ -117,6 +138,7 @@ class Esqyzan:
   │ • Your code today = Bug tomorrow │
   │ • Comments are lies (update them)│
   │ • Keep calm and git reset --hard │
+  │ • rm -rf / never. ever. EVER.    │
   └─────────────────────────────────┘
 ```
 
