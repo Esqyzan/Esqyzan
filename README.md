@@ -1,10 +1,11 @@
 <div align="center">
 
-# ESQYZAN // YAMI-HIKARI MODE ☯
+# ✨ ESQYZAN // YAMI-HIKARI MODE ☯ ✨
 ### `BORN IN THE SHADOWS • BUILT IN PYTHON • AWAKENED FOR CHAOS 領域展開`
 
 ![Monochrome Banner](https://img.shields.io/badge/THEME-BLACK%20%26%20WHITE-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=111111)
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-white?style=for-the-badge&logo=ghost&logoColor=000000)
+![Experience](https://img.shields.io/badge/POWER%20LEVEL-9000%2B-white?style=for-the-badge&logo=lightning&logoColor=000000)
 
 </div>
 
@@ -14,30 +15,47 @@
 
 ```python
 class Esqyzan:
+    """The one who walks between shadows and light"""
+    
     def __init__(self):
-        self.alias = ["Esqyzan", "Esqyzan4ik"]
-        self.role = "Full-Stack Developer / Code Alchemist"
-        self.languages = ["Python", "JavaScript", "SQL", "HTML/CSS"]
-        self.focus = ["AI", "Automation", "Backend Systems", "CV/NLP"]
-
+        self.alias = ["Esqyzan", "Esqyzan4ik", "Code Shinobi"]
+        self.role = "Full-Stack Developer / Code Alchemist / Neural Network Whisperer"
+        self.languages = ["Python 🐍", "JavaScript ⚡", "SQL 📊", "HTML/CSS 🎨"]
+        self.focus = ["AI/ML", "Automation", "Backend Systems", "CV/NLP Magic"]
+        self.mood = "Probably debugging at 3AM ☕"
+    
     def signal(self):
-        return "No colors. No noise. Just pure code. (◕‿◕✿)"
+        return "No colors. No noise. Just pure code. (◕‿◕✿) AND MEMES."
+    
+    def favorite_phrase(self):
+        return "It works on my machine... now (´・ω・`)"
 ```
 
 ---
 
 ## 光 HIKARI // NINJA TECHNIQUES
 
-- **Python Systems** - automation, scraping, backend engineering 影分身の術  
-- **AI / Neural Networks** - computer vision, NLP, model experiments 神威 
-- **Web Development** - APIs, architecture, performance-minded delivery  
-- **Dev Workflow** - CI/CD logic, integrations, operational scripting
+<div align="center">
+
+| Technique | Level | Description |
+|-----------|-------|-------------|
+| **Python Systems** | 影分身の術 | Automation, scraping, backend engineering |
+| **AI / Neural Networks** | 神威 | Computer vision, NLP, model experiments |
+| **Web Development** | 雷の呼吸 | APIs, architecture, performance-minded delivery |
+| **Dev Workflow** | 無限城 | CI/CD logic, integrations, operational scripting |
+| **Chaos Engineering** | 完全体 | Breaking things to understand them better |
+
+</div>
 
 ---
 
 ## 虚空 KOKUU // POWER LEVEL TELEMETRY
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Esqyzan&theme=dark&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideNums=DDDDDD&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&hide_border=true)](https://git.io/streak-stats)
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Esqyzan&theme=dark&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideNums=DDDDDD&currStreakNum=FFFFFF)](https://github.com/Esqyzan)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Esqyzan&layout=compact&theme=dark&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/Esqyzan)
 
 </div>
 
@@ -54,6 +72,7 @@ class Esqyzan:
 ![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-FFFFFF?style=for-the-badge&logo=docker&logoColor=000000)
 ![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git&logoColor=000000)
 
 </div>
 
@@ -64,6 +83,7 @@ class Esqyzan:
 <div align="center">
 
 [![View Repositories](https://img.shields.io/badge/ENTER%20THE%20ARCHIVE-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a)](https://github.com/Esqyzan?tab=repositories)
+[![View Gists](https://img.shields.io/badge/CODE%20SNIPPETS-FFFFFF?style=for-the-badge&logo=github&logoColor=000000&labelColor=1a1a1a)](https://gist.github.com/Esqyzan)
 
 </div>
 
@@ -82,14 +102,42 @@ class Esqyzan:
 
 ---
 
+## 秘密 HIMITSU // SECRET SAUCE
+
 <div align="center">
+
+```
+💡 Pro Tips from the Code Shadows 💡
+
+  ┌─────────────────────────────────┐
+  │ • Debugging is like detective   │
+  │   work, but less glamorous       │
+  │ • Coffee > Sleep                 │
+  │ • Stack Overflow > Documentation │
+  │ • Your code today = Bug tomorrow │
+  │ • Comments are lies (update them)│
+  │ • Keep calm and git reset --hard │
+  └─────────────────────────────────┘
+```
+
+</div>
+
+---
 
 ## 終焉 SHUEN // FINAL FRAME
 
-> *"In a world of color, choose contrast. Dattebayo."*
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Esqyzan&color=000000&style=flat-square&label=PROFILE+VIEWS" />
+> *"In a world of color, choose contrast. Dattebayo."* ⚡
+> 
+> *"If it's stupid but it works, it's not stupid."* 🧠💥
 
-`THANKS FOR STOPPING BY - STAY SHARP, SENPAI.`
+<img src="https://komarev.com/ghpvc/?username=Esqyzan&color=000000&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+
+---
+
+### ✌️ THANKS FOR STOPPING BY - STAY SHARP, SENPAI ✌️
+
+**`Made with ☕, 🖤, and questionable life choices`**
 
 </div>
