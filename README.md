@@ -1,6 +1,6 @@
 <div align="center">
 
-# ESQYZAN // BLACK-WHITE MODE
+# ESQYZAN // YAMI-HIKARI MODE ☯
 ### `BORN IN THE SHADOWS • BUILT IN PYTHON • AWAKENED FOR CHAOS 領域展開`
 
 ![Monochrome Banner](https://img.shields.io/badge/THEME-BLACK%20%26%20WHITE-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=111111)
@@ -10,7 +10,7 @@
 
 ---
 
-## BLACK PROFILE // PROTAGONIST DATA 
+## 闇 YAMI // PROTAGONIST DATA 
 
 ```python
 class Esqyzan:
@@ -26,16 +26,16 @@ class Esqyzan:
 
 ---
 
-## WHITE ARSENAL // NINJA TECHNIQUES
+## 光 HIKARI // NINJA TECHNIQUES
 
 - **Python Systems** - automation, scraping, backend engineering 影分身の術  
-- **AI / Neural Networks** - computer vision, NLP, model experiments  
+- **AI / Neural Networks** - computer vision, NLP, model experiments 神威 
 - **Web Development** - APIs, architecture, performance-minded delivery  
 - **Dev Workflow** - CI/CD logic, integrations, operational scripting
 
 ---
 
-## BLACK GITHUB // POWER LEVEL TELEMETRY
+## 虚空 KOKUU // POWER LEVEL TELEMETRY
 
 <div align="center">
 
@@ -48,7 +48,7 @@ class Esqyzan:
 
 ---
 
-## WHITE STACK // WEAPONS OF CHOICE
+## 力 CHIKARA // WEAPONS OF CHOICE
 
 <div align="center">
 
@@ -64,7 +64,7 @@ class Esqyzan:
 
 ---
 
-## BLACK PROJECTS // ISEKAI PORTALS
+## 異世界 ISEKAI // PORTALS
 
 <div align="center">
 
@@ -74,7 +74,7 @@ class Esqyzan:
 
 ---
 
-## WHITE CONTACT // TRANSMISSION
+## 通信 TSUSHIN // TRANSMISSION
 
 <div align="center">
 
@@ -89,7 +89,7 @@ class Esqyzan:
 
 <div align="center">
 
-## BLACK FINAL FRAME // 終
+## 終焉 SHUEN // FINAL FRAME
 
 > *"In a world of color, choose contrast. Dattebayo."*
 
