@@ -37,11 +37,6 @@ class Esqyzan:
 
 ## 虚空 KOKUU // POWER LEVEL TELEMETRY
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Esqyzan&show_icons=true&include_all_commits=true&count_private=true&theme=dark&title_color=ffffff&text_color=e6e6e6&icon_color=ffffff&bg_color=000000&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esqyzan&layout=compact&langs_count=8&theme=dark&title_color=ffffff&text_color=e6e6e6&bg_color=000000&hide_border=true" />
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Esqyzan&theme=dark&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideNums=DDDDDD&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&hide_border=true)](https://git.io/streak-stats)
 
 </div>
